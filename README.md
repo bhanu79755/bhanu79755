@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhanu79755
+- 👋 Hi, I’m Bhanu Shree KA
 -<h1 align="center">Hi 👋, I'm Bhanu Shree K A</h1>
 <h3 align="center">welcome to my GitHub profile</h3>
 
